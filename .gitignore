@@ -1,0 +1,7 @@
+vjeju/
+.venv/
+.env
+__pycache__/
+*.pyc
+# 백엔드는 별도 저장소(joduhan/my-api)로 관리 → Railway
+my-api/
